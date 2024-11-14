@@ -50,3 +50,15 @@ React Context API or Redux for state management.
 Axios or Fetch API for data fetching.
 CSS Modules or Styled Components for styling.
 This overview covers the main features and tasks involved in creating an e-commerce shopping cart application. Each step will deepen your understanding of React development and prepare you for larger, more complex projects. Let me know if you'd like detailed guidance on any specific part!
+
+
+
+![ecom-1](https://github.com/user-attachments/assets/f37b7a27-64f2-4ba4-93c0-71b591f6d3f5)
+
+![ecom-4](https://github.com/user-attachments/assets/35e520d2-05f2-4c8b-b5d4-31a79bcb7aaf)
+
+![ecom-3](https://github.com/user-attachments/assets/fd25d43d-edab-437b-9e64-99db15eaa052)
+
+![ecom-2](https://github.com/user-attachments/assets/a08b9411-2b5a-46cc-add6-ef10d7b15fed)
+
+
